@@ -1,4 +1,4 @@
-<h1 align="center">Hi, i'm <a href="https://ignacio-nieto.vercel.app/">Ignacio<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></h1>
+<h1 align="center">Hi, i'm <a href="https://ignacio-nieto.vercel.app/" target="_blank">Ignacio<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a></h1>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Daniel-Ignacio-Nieto.Daniel-Ignacio-Nieto)
   
