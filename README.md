@@ -65,8 +65,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" />
 </p>
 
-## Web: <a href="https://ecommerce-patagonia.vercel.app/" target="_blank">Ecommerce Patagonia</a>
-## GitHub: <a href="https://github.com/Daniel-Ignacio-Nieto/ecommerce_patagonia" target="_blank">ecommerce_patagonia</a>
+## Web: <a href="https://ecommerce-patagonia.vercel.app/" target="_blank" >Ecommerce Patagonia</a>
+## GitHub: <a href="https://github.com/Daniel-Ignacio-Nieto/ecommerce_patagonia" target="_blank" >ecommerce_patagonia</a>
 
 <br/>
 
