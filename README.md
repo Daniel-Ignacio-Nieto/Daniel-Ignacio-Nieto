@@ -22,7 +22,7 @@
 
 # <img align="left" width="70px" src="HenryMang.png" />Henry Manager
 
-## A very complete web platform that provides great management and administration in the Henry company, as well as helping students throughout the bootcamp.
+## A very complete web platform that provides great management and administration in the Henry company🚀, as well as helping students throughout the bootcamp.
 
 <img width="70%" src="HenryAppPortada.jpg" />
 
@@ -48,7 +48,7 @@
 
 # <img align="left" width="80px" src="patagonia.png" />Ecommerce Patagonia
 
-## A Patagonia beer ecommerce website
+## A Patagonia beer ecommerce website🍻
 
 <img width="70%" src="EcommersePortada.jpg" />
 
